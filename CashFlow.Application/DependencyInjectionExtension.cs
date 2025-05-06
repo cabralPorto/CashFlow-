@@ -1,5 +1,4 @@
-﻿using Cashflow.Communication.Responses;
-using CashFlow.Application.UseCases.Expenses.Register;
+﻿using CashFlow.Application.UseCases.Expenses.Register;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CashFlow.Application;
